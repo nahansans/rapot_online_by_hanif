@@ -1,5 +1,5 @@
 ## Installation
 
--Make database rapot_online
--php artisan migrate
--php artisan db:seed
+<p>Make database rapot_online</p>
+<p>php artisan migrate</p>
+<p>php artisan db:seed</p>
