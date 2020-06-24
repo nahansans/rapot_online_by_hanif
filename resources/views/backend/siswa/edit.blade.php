@@ -82,7 +82,7 @@
                                 <label>File Rapot</label>
                                 <br>
                                 <small class="text-danger">Jika Tidak Merubah Mohon Jangan Klik Upload File</small>
-                                <input type="file" class="form-control" name="file_rapot">
+                                <input type="file" class="form-control" name="file_rapot" accept="application/pdf">
                             </div>
                             <div class="form-group">
                                 <button type="submit" class="btn btn-primary mr-2">Submit</button>

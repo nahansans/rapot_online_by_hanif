@@ -37,7 +37,7 @@ class SiswaController extends Controller
      */
     public function store(Request $request)
     {
-        $tgl = \Carbon\Carbon::parse($request->tanggal_lahir)->format('dmY');
+        $tgl = \Carbon\Carbon::parse($request->tanggal_lahir)->format('dmY');        
         
         $messages = [
             'required'    => ':attribute harus diisi.',

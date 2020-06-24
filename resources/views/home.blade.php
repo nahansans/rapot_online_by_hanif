@@ -23,9 +23,10 @@
                         Ambil Rapot
                         </a>
                     @endif
-                    <a class="btn btn-danger" href="{{ route('logout') }}">
-                    Logout
-                    </a>
+                    <form action="{{ route('logout') }}" method="post" class="d-inline">
+                        @csrf
+                        <button class="btn btn-danger">Logout</button>
+                    </form>
                     @endauth
                 </div>
             </div>

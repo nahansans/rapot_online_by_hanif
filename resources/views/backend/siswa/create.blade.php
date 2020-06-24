@@ -79,7 +79,7 @@
                             </div>
                             <div class="form-group">
                                 <label>File Rapot</label>
-                                <input type="file" class="form-control" name="file_rapot">
+                                <input type="file" class="form-control" name="file_rapot" accept="application/pdf">
                             </div>
                             <div class="form-group">
                                 <button type="submit" class="btn btn-primary mr-2">Submit</button>
