@@ -54,7 +54,7 @@ License: You must have a valid license purchased only from themeforest(the above
 						<div class="login-signin">
 							<div class="mb-20">
 								<h3>Login</h3>
-								<p class="opacity-60 font-weight-bold">Ambil Rapot Anda Sekarang</p>
+								<p class="opacity-60 font-weight-bold">Ambil Raport Anda Secara Online</p>
 							</div>
 								<form class="form" method="POST" action="{{ route('login') }}">
 									@csrf

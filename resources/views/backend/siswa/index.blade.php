@@ -95,7 +95,7 @@
                             <th title="Field #4">Kompetisi Keahlian</th>
                             <th title="Field #5">Rombel</th>
                             <th title="Field #6">Rayon</th>
-                            <th title="Field #7">File Rapot</th>
+                            <th title="Field #7">File Raport</th>
                             <th title="Field #8">Aksi</th>
                         </tr>
                     </thead>

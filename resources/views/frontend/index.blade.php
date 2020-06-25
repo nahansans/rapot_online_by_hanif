@@ -39,7 +39,7 @@
                         <span class="text-muted">{{ $user->rombel }}</span>
                     </div>
                     <div class="d-flex align-items-center justify-content-between mb-2">
-                        <a class="btn btn-primary btn-block" href="{{ asset($user->file_rapot) }}" target="_blank">CETAK RAPOT</a>
+                        <a class="btn btn-primary btn-block" href="{{ asset($user->file_rapot) }}" target="_blank">CETAK RAPORT</a>
                     </div>
                     <div class="d-flex align-items-center justify-content-between mb-2">
                         <a class="btn btn-warning btn-block" href="{{ route('home') }}">KEMBALI</a>

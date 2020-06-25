@@ -79,7 +79,7 @@
                                 <input type="text" class="form-control" placeholder="Enter Rombel" name="rombel" value="{{ $user->rombel }}">
                             </div>
                             <div class="form-group">
-                                <label>File Rapot</label>
+                                <label>File Raport</label>
                                 <br>
                                 <small class="text-danger">Jika Tidak Merubah Mohon Jangan Klik Upload File</small>
                                 <input type="file" class="form-control" name="file_rapot" accept="application/pdf">

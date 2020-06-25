@@ -16,7 +16,7 @@ License: You must have a valid license purchased only from themeforest(the above
 	<!--begin::Head-->
 	<head><base href="">
 		<meta charset="utf-8" />
-		<title>SMK WIKRAMA 1 JEPARA - RAPOT ONLINE</title>
+		<title>SMK WIKRAMA 1 JEPARA - RAPORT ONLINE</title>
 		<meta name="description" content="Updates and statistics" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 		<!--begin::Fonts-->
@@ -106,7 +106,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     </li>
                                                     <li class="menu-item @stack('menu-rapot')" aria-haspopup="true">
 														<a href="{{ route('siswa.index') }}" class="menu-link">
-															<span class="menu-text">Rapot</span>
+															<span class="menu-text">Raport</span>
 														</a>
 													</li>
                                                     <li class="menu-item text-danger" aria-haspopup="true">

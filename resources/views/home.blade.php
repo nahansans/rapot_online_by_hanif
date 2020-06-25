@@ -20,7 +20,7 @@
                     @auth
                     @if (Auth::user()->level === 'SISWA')
                         <a class="btn btn-primary" href="{{ route('rapot') }}">
-                        Ambil Rapot
+                        Ambil Raport
                         </a>
                     @endif
                     <form action="{{ route('logout') }}" method="post" class="d-inline">

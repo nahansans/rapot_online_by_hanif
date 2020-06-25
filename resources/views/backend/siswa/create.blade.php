@@ -78,7 +78,7 @@
                                 <input type="text" class="form-control" placeholder="Enter Rombel" name="rombel" value="{{ old('rombel') }}">
                             </div>
                             <div class="form-group">
-                                <label>File Rapot</label>
+                                <label>File Raport</label>
                                 <input type="file" class="form-control" name="file_rapot" accept="application/pdf">
                             </div>
                             <div class="form-group">
