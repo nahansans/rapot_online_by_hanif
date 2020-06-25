@@ -104,7 +104,7 @@
                             <tr>
                                 <td>{{ $item->nis }}</td>
                                 <td>{{ $item->name }}</td>
-                                <td>{{ \Carbon\Carbon::parse($item->tanggal_lahir)->format('dmY') }}</td>
+                                <td>{{ \Carbon\Carbon::parse($item->tanggal_lahir)->format('d, F Y') }}</td>
                                 <td>{{ $item->kompetisi_keahlian }}</td>
                                 <td>{{ $item->rombel }}</td>
                                 <td>{{ $item->rayon }}</td>
