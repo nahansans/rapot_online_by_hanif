@@ -62,7 +62,7 @@
                                 <input type="text" class="form-control" placeholder="Enter Name" name="name" value="{{ old('name') }}">
                             </div>
                             <div class="form-group">
-                                <label>date</label>
+                                <label>Tanggal Lahir</label>
                                 <input type="date" class="form-control" name="tanggal_lahir" value="{{ old('tanggal_lahir') }}">
                             </div>
                             <div class="form-group">

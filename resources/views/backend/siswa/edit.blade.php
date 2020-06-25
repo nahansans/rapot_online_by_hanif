@@ -63,7 +63,7 @@
                                 <input type="text" class="form-control" placeholder="Enter Name" name="name" value="{{ $user->name }}">
                             </div>
                             <div class="form-group">
-                                <label>date</label>
+                                <label>Tanggal Lahir</label>
                                 <input type="date" class="form-control" name="tanggal_lahir" value="{{ $user->tanggal_lahir }}">
                             </div>
                             <div class="form-group">
