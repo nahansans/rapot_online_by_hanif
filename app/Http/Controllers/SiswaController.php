@@ -51,7 +51,7 @@ class SiswaController extends Controller
             'kompetisi_keahlian' => 'required|min:3',
             'rayon' => 'required|min:3',
             'rombel' => 'required|min:3',
-            'file_rapot' => 'required|min:3'
+            'file_rapot' => 'required'
         ], $messages);
 
         $file = $request->file('file_rapot');
